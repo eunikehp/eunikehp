@@ -1,9 +1,9 @@
 Hi, welcome!
 
-My name is Eunike. I am a finance professional who has been working on developing data analysis and visualization skills.
-I am actively learning about SQL, Python, Tableau and Power BI.
+My name is Eunike. I am a finance professional who is passionate in solving problems by involving data.
+I have been working on developing my data analysis and visualisation skills using tools such as SQL, Python, Tableau and Power BI.
 My goal is to pursue a career as a data analyst.
-This account would give you an insight of my learning process. Enjoy!
+This account would show you an insight of my learning process. Enjoy!
 
 Please reach me on linkedin : www.linkedin.com/in/eunikepardede
 
