@@ -9,6 +9,7 @@ This account would show you an insight of my learning process. Please check my r
 
 - <b>SQL</b>
   - [Data Lemur SQL Exercises ](https://github.com/eunikehp/DataLemur-SQL-exercises)
+  - [SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)
 - <b>Python</b>
   
 - <b>Tableau</b>
