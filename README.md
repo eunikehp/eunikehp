@@ -11,8 +11,9 @@ Through this account, I share my recent projects and portfolios. Please check my
   - [Data Lemur SQL Exercises ](https://github.com/eunikehp/DataLemur-SQL-exercises)
   - [SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)
 - <b>Python</b>
-  - [Pandas exercise - Page Visits Funnel Project](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
-  - [Matplotlib exercise - Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
+  - [Pandas exercise: Page Visits Funnel Project](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
+  - [Matplotlib exercise: Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
+  - [Capstone Project: Biodiversity in National Parks] (https://github.com/eunikehp/Biodiversity-in-National-Parks)
   - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
 
