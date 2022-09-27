@@ -11,7 +11,7 @@ This account would show you an insight of my learning process. Please check my r
   - [Data Lemur SQL Exercises ](https://github.com/eunikehp/DataLemur-SQL-exercises)
   - [SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)
 - <b>Python</b>
-  - [Page Visits Funnel Project](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
+  - [Pandas exercise - Page Visits Funnel Project](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
   - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
 
