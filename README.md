@@ -12,6 +12,7 @@ This account would show you an insight of my learning process. Please check my r
   - [SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)
 - <b>Python</b>
   - [Pandas exercise - Page Visits Funnel Project](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
+  - [Matplotlib exercise - Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
   - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
 
