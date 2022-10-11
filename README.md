@@ -15,6 +15,7 @@ Through this account, I share my recent projects and portfolios. Please check my
   - [Visualizing the Orion Constellation (Matplotlib)](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
   - [Life Expectancy By Country (Pandas, Numpy, Matplotlib)](https://github.com/eunikehp/Life-Expectancy-By-Country)
   - [Capstone Project: Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)
+  - [Capstone Project: MuscleHub A/B Test](https://github.com/eunikehp/MuscleHub-A-B-Test)
   - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
 
