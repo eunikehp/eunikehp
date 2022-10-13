@@ -18,6 +18,7 @@ Through this account, I share my recent projects and portfolios. Please check my
   - [Capstone Project: MuscleHub A/B Test](https://github.com/eunikehp/MuscleHub-A-B-Test)
   - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
+  - [My Tableau Public Account](https://public.tableau.com/app/profile/eunikepardede)
 
 <br />
 
