@@ -3,7 +3,7 @@
 I am a young professional who is passionate in learning data analysis. I like to solve problems by getting insight from data. 
 In these past months, I have been working on developing my skills in data cleaning, data wrangling and data visualization. 
 I followed some online courses, websites, and youtube videos in order to learn SQL, Python, and Tableau.
-Through this account, I share my recent projects and portfolios. Please check my repositories below! I hope I could pursue my career as a data analyst soon! 
+Through this account, I shared my recent projects and portfolios. Please check my repositories below! I hope I could pursue my career as a data analyst soon! 
 
 <h2>👩‍💻 Projects:</h2>
 
