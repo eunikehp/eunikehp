@@ -13,10 +13,10 @@ Through this account, I shared my recent projects and portfolios. Please check m
 - <b>Python</b>
   - [Page Visits Funnel Project (Pandas)](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
   - [Visualizing the Orion Constellation (Matplotlib)](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
-  - [Life Expectancy By Country (Pandas, Numpy, Matplotlib)](https://github.com/eunikehp/Life-Expectancy-By-Country)
+  - [Life Expectancy By Country (Pandas, NumPy, Matplotlib)](https://github.com/eunikehp/Life-Expectancy-By-Country)
   - [Capstone Project: Biodiversity in National Parks(Pandas, Matplotlib, SciPy)](https://github.com/eunikehp/Biodiversity-in-National-Parks)
   - [Capstone Project: MuscleHub A/B Test(SQL, Pandas, Matplotlib)](https://github.com/eunikehp/MuscleHub-A-B-Test)
-  - [EDA Diagnosing Diabetes Project](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
+  - [EDA Diagnosing Diabetes Project (Pandas, NumPy)](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
 - <b>Tableau</b>
   - [Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)
   - [Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)
