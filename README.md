@@ -20,6 +20,7 @@ Through this account, I shared my recent projects and portfolios. Please check m
 - <b>Tableau</b>
   - [Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)
   - [Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)
+  - [NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)
 
 <br />
 
