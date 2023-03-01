@@ -1,9 +1,13 @@
 <h1>🙋‍♀️ Hi, I'm Eunike <br/></h1>
 
-I am a young professional who is passionate in learning data analysis. I like to solve problems by getting insight from data. 
-In these past months, I have been working on developing my skills in data cleaning, data wrangling and data visualization. 
-I followed some online courses, websites, and youtube videos in order to learn SQL, Python, and Tableau.
-Through this account, I shared my recent projects and portfolios. Please check my repositories below! I hope I could pursue my career as a data analyst soon! 
+## I'm a fulltime learner! 
+- 🔭 I once worked as a banker 
+- 😄 I recently graduated with a master's degree in Business Administration
+- ⚡ I became passionate about data analysis
+- 🌱 I’m currently learning SQL, Python & Tableau
+-  ✍ You can find my projects below
+- 👯 I want to pursue a career as a Data Analyst
+- 💬 Ask me about ... Anything
 
 <h2>👩‍💻 Projects:</h2>
 
