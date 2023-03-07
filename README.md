@@ -1,6 +1,6 @@
 <h1>🙋‍♀️ Hi, I'm Eunike <br/></h1>
 
-## I'm a fulltime learner! 
+## About me
 - 🔭 I once worked as a banker 
 - 😄 I recently graduated with a master's degree in Business Administration
 - ⚡ I became passionate about data analysis
