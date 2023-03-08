@@ -1,4 +1,4 @@
-<h1>🙋‍♀️ Hi, I'm Eunike <br/></h1>
+# 🙋‍♀️ Hi, I'm Eunike
 
 ## About me
 - 🔭 I once worked as a banker 
@@ -9,22 +9,31 @@
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
 
-<h2>👩‍💻 Projects:</h2>
+# 👩‍💻 Projects
 
-- <b>SQL</b>
-  - [Data Lemur SQL Exercises ](https://github.com/eunikehp/DataLemur-SQL-exercises)
-  - [SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)
-- <b>Python</b>
-  - [Page Visits Funnel Project (Pandas)](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)
-  - [Visualizing the Orion Constellation (Matplotlib)](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)
-  - [Life Expectancy By Country (Pandas, NumPy, Matplotlib)](https://github.com/eunikehp/Life-Expectancy-By-Country)
-  - [Capstone Project: Biodiversity in National Parks(Pandas, Matplotlib, SciPy)](https://github.com/eunikehp/Biodiversity-in-National-Parks)
-  - [Capstone Project: MuscleHub A/B Test(SQL, Pandas, Matplotlib)](https://github.com/eunikehp/MuscleHub-A-B-Test)
-  - [EDA Diagnosing Diabetes Project (Pandas, NumPy)](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)
-- <b>Tableau</b>
-  - [Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)
-  - [Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)
-  - [NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)
+## SQL
+| No| Project Name | Description |
+|---|---|---|
+|1|[SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| |
+|2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| |
+ 
+## Python
+| No| Project Name | Description | Libraries |
+|---|---|---|---|
+|1|[Page Visits Funnel](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)|  | Pandas|
+|2|[Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)| | Matplotlib |
+|3|[Life Expectancy By Country](https://github.com/eunikehp/Life-Expectancy-By-Country)|   |Pandas, NumPy, Matplotlib|
+|4|[Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)| |Pandas, Matplotlib, SciPy|
+|5|[MuscleHub A/B Test](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test | SQL, Pandas, Matplotlib|
+|6|[Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
+|7|[Amazon Sales](https://github.com/eunikehp/Amazon-Sales)| Data Cleaning, EDA, Visualization | Pandas,Matplotlib,Seaborn|
+
+## Tableau
+|No| Project Names | Description |
+|---|---|----|
+|1|[Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)| |
+|2|[Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)| |
+|3|[NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)| |
 
 <br />
 
