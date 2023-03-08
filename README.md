@@ -14,17 +14,17 @@
 ## SQL
 | No| Project Name | Description |
 |---|---|---|
-|1|[SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| |
-|2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| |
+|1|[SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Danny Ma](https://8weeksqlchallenge.com/getting-started/)|
+|2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
  
 ## Python
 | No| Project Name | Description | Libraries |
 |---|---|---|---|
-|1|[Page Visits Funnel](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)|  | Pandas|
-|2|[Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)| | Matplotlib |
-|3|[Life Expectancy By Country](https://github.com/eunikehp/Life-Expectancy-By-Country)|   |Pandas, NumPy, Matplotlib|
-|4|[Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)| |Pandas, Matplotlib, SciPy|
-|5|[MuscleHub A/B Test](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test | SQL, Pandas, Matplotlib|
+|1|[Page Visits Funnel](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)| Manipulating data using Pandas. Analyzing data visit of company website and building a funnel. | Pandas|
+|2|[Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)|Creating a rotate-able visualization of the position of the Orion's stars.| Matplotlib |
+|3|[Life Expectancy By Country](https://github.com/eunikehp/Life-Expectancy-By-Country)| Investigating the average life expectancy in 158 different countries. Identify the impact of country’s economic success to life expectancy.  |Pandas, NumPy, Matplotlib|
+|4|[Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)| Cleaning up, analyzing, and plotting data of endangered species in National Parks. |Pandas, Matplotlib, SciPy|
+|5|[MuscleHub](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test. Choosing business strategy. | SQL, Pandas, Matplotlib|
 |6|[Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
 |7|[Amazon Sales](https://github.com/eunikehp/Amazon-Sales)| Data Cleaning, EDA, Visualization | Pandas,Matplotlib,Seaborn|
 
