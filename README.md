@@ -24,8 +24,8 @@
 |2|[Visualizing the Orion Constellation](https://github.com/eunikehp/Visualizing-the-Orion-Constellation)|Creating a rotate-able visualization of the position of the Orion's stars.| Matplotlib |
 |3|[Life Expectancy By Country](https://github.com/eunikehp/Life-Expectancy-By-Country)| Investigating the average life expectancy in 158 different countries. Identify the impact of country’s economic success to life expectancy.  |Pandas, NumPy, Matplotlib|
 |4|[Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)| Cleaning up, analyzing, and plotting data of endangered species in National Parks. |Pandas, Matplotlib, SciPy|
-|5|[MuscleHub](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test. Choosing business strategy. | SQL, Pandas, Matplotlib|
-|6|[Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
+|5|[Capstone Project: MuscleHub](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test. Choosing business strategy. | SQL, Pandas, Matplotlib|
+|6|[Capstone Project: Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
 |7|[Amazon Sales](https://github.com/eunikehp/Amazon-Sales)| Data Cleaning, EDA, Visualization | Pandas,Matplotlib,Seaborn|
 
 ## Tableau
@@ -35,9 +35,8 @@
 |2|[Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)| |
 |3|[NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)| |
 
-<br />
 
-<h2> Languages and Tools:</h2>
+# Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
@@ -52,7 +51,7 @@
 <br />
 <br /> 
 
-<h2> 🤳 Connect with me:</h2>
+# 🤳 Connect with me:
 
 [<img align="left" alt="Eunike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
