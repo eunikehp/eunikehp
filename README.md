@@ -14,7 +14,7 @@
 ## SQL
 | No| Project Name | Description |
 |---|---|---|
-|1|[SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Danny Ma](https://8weeksqlchallenge.com/getting-started/)|
+|1|[8 SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Data with Danny](https://8weeksqlchallenge.com/getting-started/)|
 |2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
  
 ## Python
