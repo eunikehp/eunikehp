@@ -16,6 +16,7 @@
 |---|---|---|
 |1|[8 SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Data with Danny](https://8weeksqlchallenge.com/getting-started/)|
 |2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
+|3|[Covid Analysis](https://github.com/eunikehp/COVIDanalysis/blob/main/README.md)| Data Exploration |
  
 ## Python
 | No| Project Name | Description | Libraries |
