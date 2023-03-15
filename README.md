@@ -58,6 +58,10 @@
 
 [linkedin]: www.linkedin.com/in/eunikepardede
 
+[<img align="left" alt="Eunike | Medium" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" />][medium]
+
+[medium]: https://medium.com/@eunikehp
+
 <br />
 <br />
 <br /> 
