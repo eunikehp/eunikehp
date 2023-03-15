@@ -1,10 +1,10 @@
 # 🙋‍♀️ Hi, I'm Eunike
 
 ## About me
-- 🔭 I once worked as a banker 
-- 😄 I recently graduated with a master's degree in Business Administration
-- ⚡ I became passionate about data analysis
-- 🌱 I’m currently learning SQL, Python & Tableau
+- 🔭 A former banker 
+- 😄 Recently graduated with a master's degree in Business Administration
+- ⚡ Passionate about data analysis
+- 🌱 Currently learning SQL, Python & Tableau
 -  ✍ You can find my projects below
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
