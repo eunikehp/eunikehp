@@ -9,17 +9,34 @@
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
 
-# 👩‍💻 Projects
+# 👩‍💻 Portfolio
 
-## SQL
+## Projects
+
+1. [Amazon Sales](https://github.com/eunikehp/Amazon-Sales) | Data cleaning, EDA, Visualization 
+- Utilized ***Python*** to analyze the sales performance of Amazon
+- Performed data cleaning by implementing ***Pandas***
+- Visualized the insight from the prices of products, discount, and rating by using ***Matplotlib*** and ***Seaborn***
+
+2. [Hotel Booking](https://github.com/eunikehp/Hotel_Booking) | Data cleaning, EDA, Visualization
+- Analysis on hotel database to explore information related to the guests and bookings of 2 hotels: Resort Hotel and City Hotel
+- Implemented ***SQLite3*** & ***Pandas*** to do EDA
+- Visualized the data by using ***Matplotlib*** and ***Seaborn*** 
+
+3. [Covid-19 Analysis](https://github.com/eunikehp/COVIDanalysis) | Data Exploration & Visualization
+- Utilized ***SQL Server*** to extract data from 2 different tables using JOIN and VIEW
+- Explored the data to analysis the COVID cases around the world
+- Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
+
+## Other Projects
+### SQL
 | No| Project Name | Description |
 |---|---|---|
 |1|[8 SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Data with Danny](https://8weeksqlchallenge.com/getting-started/)|
 |2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
-|3|[Covid Analysis](https://github.com/eunikehp/COVIDanalysis)| Data Exploration & Visualization|
-|4|[Nashville Housing](https://github.com/eunikehp/NashvilleHousing)| Data Cleaning |
+|3|[Nashville Housing](https://github.com/eunikehp/NashvilleHousing)| Data Cleaning |
  
-## Python
+### Python
 | No| Project Name | Description | Libraries |
 |---|---|---|---|
 |1|[Page Visits Funnel](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)| Manipulating data using Pandas. Analyzing data visit of company website and building a funnel. | Pandas|
@@ -28,15 +45,15 @@
 |4|[Biodiversity in National Parks](https://github.com/eunikehp/Biodiversity-in-National-Parks)| Cleaning up, analyzing, and plotting data of endangered species in National Parks. |Pandas, Matplotlib, SciPy|
 |5|[Capstone Project: MuscleHub](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test. Choosing business strategy. | SQL, Pandas, Matplotlib|
 |6|[Capstone Project: Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
-|7|[Amazon Sales](https://github.com/eunikehp/Amazon-Sales)| Data Cleaning, EDA, Visualization | Pandas,Matplotlib,Seaborn|
 
-## Tableau
+
+### Tableau
 |No| Project Names | 
 |---|---|
 |1|[Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)| 
 |2|[Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)| 
 |3|[NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)| 
-|4|[Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)|
+
 
 
 # Languages and Tools:
