@@ -9,9 +9,14 @@
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
 
-# 👩‍💻 Portfolio
+## 📚 Skills
+- Data cleaning, modeling & analysis: SQL (SQL Server & SQLite3), Excel, Pandas, NumPy
+- Visualization: Tableau, Matplotlib, Seaborn
+- Dashboard development: Tableau
 
-## Projects
+## 👩‍💻 Portfolio
+
+### Projects
 
 1. [Amazon Sales](https://github.com/eunikehp/Amazon-Sales) | Data cleaning, EDA, Visualization 
 - Utilized ***Python*** to analyze the sales performance of Amazon
@@ -28,15 +33,15 @@
 - Explored the data to analyze the COVID cases around the world
 - Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
 
-## Other Projects
-### SQL
+### Other Projects
+#### SQL
 | No| Project Name | Description |
 |---|---|---|
 |1|[8 SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Data with Danny](https://8weeksqlchallenge.com/getting-started/)|
 |2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
 |3|[Nashville Housing](https://github.com/eunikehp/NashvilleHousing)| Data Cleaning |
  
-### Python
+#### Python
 | No| Project Name | Description | Libraries |
 |---|---|---|---|
 |1|[Page Visits Funnel](https://github.com/eunikehp/Page_Visits_Funnel_Project/tree/main)| Manipulating data using Pandas. Analyzing data visit of company website and building a funnel. | Pandas|
@@ -47,7 +52,7 @@
 |6|[Capstone Project: Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
 
 
-### Tableau
+#### Tableau
 |No| Project Names | 
 |---|---|
 |1|[Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)| 
@@ -56,7 +61,7 @@
 
 
 
-# Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
@@ -71,7 +76,7 @@
 <br />
 <br /> 
 
-# 🤳 Connect with me:
+## 🤳 Connect with me:
 
 [<img align="left" alt="Eunike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
