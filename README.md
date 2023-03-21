@@ -25,7 +25,7 @@
 
 3. [Covid-19 Analysis](https://github.com/eunikehp/COVIDanalysis) | Data Exploration & Visualization
 - Utilized ***SQL Server*** to extract data from 2 different tables using JOIN and VIEW
-- Explored the data to analysis the COVID cases around the world
+- Explored the data to analyze the COVID cases around the world
 - Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
 
 ## Other Projects
