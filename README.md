@@ -25,13 +25,18 @@
 
 2. [Hotel Booking](https://github.com/eunikehp/Hotel_Booking) | Data cleaning, EDA, Visualization
 - Analysis on hotel database to explore data related to the guests and bookings of 2 hotels: Resort Hotel and City Hotel
-- Implemented ***SQLite3*** & ***Pandas*** to do EDA
+- Implemented ***SQLite3*** & ***Pandas*** to do Eploratory Data Analysis
 - Visualized the data by using ***Matplotlib*** and ***Seaborn*** 
 
 3. [Covid-19 Analysis](https://github.com/eunikehp/COVIDanalysis) | Data Exploration & Visualization
 - Utilized ***SQL*** to extract data from 2 different tables using JOIN and VIEW
 - Explored the data to analyze the COVID cases around the world
 - Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
+
+4. [Game Sale Analysis](https://github.com/eunikehp/RevoU/blob/main/Game_Sales_Analysis.ipynb) | Data Cleaning, Exploration & Visualization
+- Performed ***Python*** with libraries ***Pandas*** and ***NumPy*** to analyze the which series, publisher & developer have most games
+- Visualized the analysis using ***Seaborn*** 
+- Created a slide presentation using ***Google Slide*** ,see here: [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Games%20Sales%20Analysis.pdf)
 
 ### Other Projects
 #### SQL
@@ -40,7 +45,7 @@
 |1|[8 SQL Case Studies](https://github.com/eunikehp/SQL-Case-Studies)| 8 SQL Challenge case studies from [Data with Danny](https://8weeksqlchallenge.com/getting-started/)|
 |2|[Data Lemur SQL Exercises](https://github.com/eunikehp/DataLemur-SQL-exercises)| SQL Practice on Data Lemur platform|
 |3|[Nashville Housing](https://github.com/eunikehp/NashvilleHousing)| Data Cleaning |
- 
+
 #### Python
 | No| Project Name | Description | Libraries |
 |---|---|---|---|
