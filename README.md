@@ -33,7 +33,7 @@
 - Explored the data to analyze the COVID cases around the world
 - Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
 
-4. [Game Sale Analysis](https://github.com/eunikehp/RevoU/blob/main/Game_Sales_Analysis.ipynb) | Data Cleaning, Exploration & Visualization
+4. [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Game_Sales_Analysis.ipynb) | Data Cleaning, Exploration & Visualization
 - Performed ***Python*** with libraries ***Pandas*** and ***NumPy*** to analyze the which series, publisher & developer have most games
 - Visualized the analysis using ***Seaborn*** 
 - Created a slide presentation using ***Google Slide*** ,see here: [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Games%20Sales%20Analysis.pdf)
