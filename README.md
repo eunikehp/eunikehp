@@ -12,7 +12,7 @@
 ## 📚 Skills
 - Data cleaning, modeling & analysis: SQL (SQL Server & SQLite3), Excel, Pandas, NumPy
 - Visualization: Tableau, Matplotlib, Seaborn
-- Dashboard development: Tableau
+- Dashboard development: Tableau, Google Data Studio
 
 ## 👩‍💻 Portfolio
 
