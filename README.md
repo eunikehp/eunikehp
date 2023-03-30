@@ -9,10 +9,11 @@
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
 
-## 📚 Skills
+## 📚 Skills & Tools
 - Data cleaning, modeling & analysis: SQL (SQL Server & SQLite3), Excel, Pandas, NumPy
 - Visualization: Tableau, Matplotlib, Seaborn
 - Dashboard development: Tableau, Google Data Studio
+- Git
 
 ## 👩‍💻 Portfolio
 
