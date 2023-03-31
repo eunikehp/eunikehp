@@ -5,15 +5,22 @@
 - 😄 Recently graduated with a master's degree in Business Administration
 - ⚡ Passionate about data analysis
 - 🌱 Currently learning SQL, Python & Tableau
--  ✍ You can find my projects below
+-  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html)
 - 👯 I want to pursue a career as a Data Analyst
 - 💬 Ask me about ... Anything
 
-## 📚 Skills & Tools
-- Data cleaning, modeling & analysis: SQL (SQL Server & SQLite3), Excel, Pandas, NumPy
-- Visualization: Tableau, Matplotlib, Seaborn
-- Dashboard development: Tableau, Google Data Studio
-- Git
+## 📚 Skills 
+- Data cleaning, modeling & analysis
+- Visualization
+- Dashboard development
+
+## 📚 Tools
+- SQL (SQL Server & SQLite3)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Tableau
+- Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting)
+- Google Data Studio
+- GIT
 
 ## 👩‍💻 Portfolio
 
