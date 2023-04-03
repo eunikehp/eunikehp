@@ -4,15 +4,15 @@
 - 🔭 A former banker 
 - 😄 Recently graduated with a master's degree in Business Administration
 - ⚡ Passionate about data analysis
-- 🌱 Currently learning SQL, Python & Tableau
 -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html)
 - 👯 I want to pursue a career as a Data Analyst
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... anything
 
-## 📚 Skills 
-- Data cleaning, modeling & analysis
+## 🌱 Skills 
+- Data preparation
+- Data modeling & analysis
 - Visualization
-- Dashboard development
+- Dashboard development & reporting
 
 ## 📚 Tools
 - SQL (SQL Server & SQLite3)
