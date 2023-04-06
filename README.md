@@ -1,7 +1,7 @@
 # 🙋‍♀️ Hi, I'm Eunike
 
 ## About me
-- 🔭 A former banker 
+- 🔭 A former banker and a lifelong learner
 - 😄 Recently graduated with a master's degree in Business Administration
 - ⚡ Passionate about data analysis
 -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html)
