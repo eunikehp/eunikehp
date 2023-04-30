@@ -5,7 +5,7 @@
 - 😄 Recently graduated with a master's degree in Business Administration
 - ⚡ Passionate about data analysis
 -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html)
-- 👯 I want to pursue a career as a Data Analyst
+- 👯 I want to pursue a career as a Business/Data Analyst
 - 💬 Ask me about ... anything
 
 ## 🌱 Skills 
