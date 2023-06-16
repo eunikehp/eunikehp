@@ -71,6 +71,7 @@
 |1|[Rotten Tomatoes](https://public.tableau.com/app/profile/eunikepardede/viz/RottenTomatoes_16656655388840/Dashboard1)| 
 |2|[Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)| 
 |3|[NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)| 
+|4|[CEO Dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/CEOReport_16869070854710/Dashboard1)|
 
 
 
