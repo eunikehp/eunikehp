@@ -33,7 +33,7 @@ Locate new clients in existing buildings based on clients' preferences and requi
 - Explored the data by analyzing based on location, industry, space availability, lease rate, and starting date.
 - Developed an [interactive dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/FunnelAnalysis_16873628569980/Dashboard1) for internal stakeholders and clients using Tableau.
 
-2.KPMG DATA ANALYTICS - Virtual Experience Program|  Data Quality Assessment, Data Insights, Data Visualization<br/>
+2. KPMG DATA ANALYTICS - Virtual Experience Program|  Data Quality Assessment, Data Insights, Data Visualization<br/>
 Analyze existing customer datasets to determine customer trends and behavior, then target new customers to drive the most value for the organization. 
 - Assessment of data quality and completeness in preparation for analysis (Python and Pandas library).
 - Targeting high-value customers based on demographics and attributes.
