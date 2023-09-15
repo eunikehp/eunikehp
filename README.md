@@ -26,22 +26,35 @@
 
 ### Projects
 
-1. [Amazon Sales](https://github.com/eunikehp/Amazon-Sales) | Data cleaning, EDA, Visualization 
+1. [Funnel Analysis](https://github.com/eunikehp/Funnel-Analysis/blob/main/Funnel%20Analysis.pdf)|  Data Cleaning, EDA, Model Development, Visualization<br/>
+Locate new clients in existing buildings based on clients' preferences and requirements.
+- Utilized Python and Pandas library to inspect, clean, and merge datasets.
+- Added some calculated fields and conducted Filters on Tableau to create more robust visualizations.
+- Explored the data by analyzing based on location, industry, space availability, lease rate, and starting date.
+- Developed an [interactive dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/FunnelAnalysis_16873628569980/Dashboard1) for internal stakeholders and clients using Tableau.
+
+2.KPMG DATA ANALYTICS - Virtual Experience Program|  Data Quality Assessment, Data Insights, Data Visualization<br/>
+Analyze existing customer datasets to determine customer trends and behavior, then target new customers to drive the most value for the organization. 
+- Assessment of data quality and completeness in preparation for analysis (Python and Pandas library).
+- Targeting high-value customers based on demographics and attributes.
+- Created a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment (Tableau).
+
+3. [Amazon Sales](https://github.com/eunikehp/Amazon-Sales) | Data cleaning, EDA, Visualization 
 - Utilized ***Python*** to analyze the sales performance of Amazon
 - Performed data cleaning by implementing ***Pandas***
 - Visualized the insight from the prices of products, discounts, and ratings by using ***Matplotlib*** and ***Seaborn***
 
-2. [Hotel Booking](https://github.com/eunikehp/Hotel_Booking) | Data cleaning, EDA, Visualization
+4. [Hotel Booking](https://github.com/eunikehp/Hotel_Booking) | Data cleaning, EDA, Visualization
 - Analysis on hotel database to explore data related to the guests and bookings of 2 hotels: Resort Hotel and City Hotel
 - Implemented ***SQLite3*** & ***Pandas*** to do Eploratory Data Analysis
 - Visualized the data by using ***Matplotlib*** and ***Seaborn*** 
 
-3. [Covid-19 Analysis](https://github.com/eunikehp/COVIDanalysis) | Data Exploration & Visualization
+5. [Covid-19 Analysis](https://github.com/eunikehp/COVIDanalysis) | Data Exploration & Visualization
 - Utilized ***SQL*** to extract data from 2 different tables using JOIN and VIEW
 - Explored the data to analyze the COVID cases around the world
 - Created a dashboard with ***Tableau*** ,see here: [Covid-19 Analysis](https://public.tableau.com/shared/23GRK28CR?:display_count=n&:origin=viz_share_link)
 
-4. [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Game_Sales_Analysis.ipynb) | Data Cleaning, Exploration & Visualization
+6. [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Game_Sales_Analysis.ipynb) | Data Cleaning, Exploration & Visualization
 - Performed ***Python*** with libraries ***Pandas*** and ***NumPy*** to analyze the which series, publisher & developer have most games
 - Visualized the analysis using ***Seaborn*** 
 - Created a slide presentation using ***Google Slide*** ,see here: [Game Sales Analysis](https://github.com/eunikehp/RevoU/blob/main/Games%20Sales%20Analysis.pdf)
