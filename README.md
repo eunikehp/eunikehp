@@ -4,7 +4,7 @@
 - 🔭 A former banker and a lifelong learner
 - 😄 Recently graduated with a master's degree in Business Administration
 - ⚡ Passionate about data analysis
--  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html)
+-  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html) (still on progress)
 - 👯 I want to pursue a career as a Business/Data Analyst
 - 💬 Ask me about ... anything
 
