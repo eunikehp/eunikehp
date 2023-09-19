@@ -28,16 +28,16 @@
 
 1. [Funnel Analysis](https://github.com/eunikehp/Funnel-Analysis/blob/main/Funnel%20Analysis.pdf)|  Data Cleaning, EDA, Model Development, Visualization<br/>
 Locate new clients in existing buildings based on clients' preferences and requirements.
-- Utilized Python and Pandas library to inspect, clean, and merge datasets.
-- Added some calculated fields and conducted Filters on Tableau to create more robust visualizations.
+- Utilized ***Python*** and ***Pandas*** library to inspect, clean, and merge datasets.
+- Added some calculated fields and conducted Filters on ***Tableau*** to create more robust visualizations.
 - Explored the data by analyzing based on location, industry, space availability, lease rate, and starting date.
-- Developed an [interactive dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/FunnelAnalysis_16873628569980/Dashboard1) for internal stakeholders and clients using Tableau.
+- Developed an [interactive dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/FunnelAnalysis_16873628569980/Dashboard1) for internal stakeholders and clients using ***Tableau***.
 
 2. [KPMG DATA ANALYTICS - Virtual Experience Program](https://github.com/eunikehp/Forage-Virtual-Internship/tree/main/KPMG%20Data%20Analytics)|  Data Quality Assessment, Data Insights, Data Visualization<br/>
 Analyze existing customer datasets to determine customer trends and behavior, then target new customers to drive the most value for the organization. 
-- Assessment of data quality and completeness in preparation for analysis (Python and Pandas library).
+- Assessment of data quality and completeness in preparation for analysis (***Python*** and ***Pandas*** library).
 - Targeting high-value customers based on demographics and attributes.
-- Created a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment (Tableau).
+- Created a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment (***Tableau***).
 
 3. [Amazon Sales](https://github.com/eunikehp/Amazon-Sales) | Data cleaning, EDA, Visualization 
 - Utilized ***Python*** to analyze the sales performance of Amazon
