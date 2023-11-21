@@ -3,18 +3,21 @@
 ## About me
 - 🔭 A former banker and a lifelong learner
 - 😄 Recently graduated with a master's degree in Business Administration
-- ⚡ Passionate about data analysis
+- ⚡ Passionate about coding, programming, and data analysis
 -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html) (still on progress)
-- 👯 I want to pursue a career as a Business/Data Analyst
 - 💬 Ask me about ... anything
 
 ## 🌱 Skills 
+- Web Development
 - Data preparation
 - Data modeling & analysis
 - Visualization
 - Dashboard development & reporting
 
 ## 📚 Tools
+- HTML
+- CSS
+- JavaScript
 - SQL (SQL Server & SQLite3)
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Tableau
