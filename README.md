@@ -18,10 +18,10 @@
 - HTML
 - CSS
 - JavaScript
-- SQL (SQL Server & SQLite3)
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Tableau
 - Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting)
+- SQL (SQL Server & SQLite3)
 - Google Data Studio
 - GIT
 
