@@ -29,6 +29,12 @@
 
 ### Projects
 
+#### Web Development
+1. [Personal Blog](https://github.com/eunikehp/Blog)
+2. [Calculator](https://github.com/eunikehp/Calculator)
+3. [Rock-paper-scissors game](https://github.com/eunikehp/Rock-paper-scissors)
+
+#### Data Analysis
 1. [Funnel Analysis](https://github.com/eunikehp/Funnel-Analysis/blob/main/Funnel%20Analysis.pdf)|  Data Cleaning, EDA, Model Development, Visualization<br/>
 Locate new clients in existing buildings based on clients' preferences and requirements.
 - Utilized ***Python*** and ***Pandas*** library to inspect, clean, and merge datasets.
