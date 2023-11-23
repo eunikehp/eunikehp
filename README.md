@@ -124,21 +124,16 @@ Analyze existing customer datasets to determine customer trends and behavior, th
 
 <br />
 <br />
-<br /> 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Eunike's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eunikehp&show_icons=true&hide_border=true" />
-
-</details>
 
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Eunike's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eunikehp&show_icons=true&hide_border=true" />
 
+<summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Eunike's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunikehp" />
 
-</details>
+
 
 [portfolio]: https://github.com/eunikehp?tab=repositories
+<!--<details>
+</details>-->
