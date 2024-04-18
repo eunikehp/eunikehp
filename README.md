@@ -3,9 +3,9 @@
 ## About me
 - 🔭 A former banker and a lifelong learner
 - 😄 Graduated with a master's degree in Business Administration
-- ⚡ Passionate in coding, programming, and data analysis
+- ⚡ Passionate in coding and programming
 <!-- -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html) (still on progress)
-- 💬 Ask me about ... anything -->
+- 💬 Ask me about ... anything
 
 ## 🌱 Skills 
 - Web Development
@@ -33,7 +33,7 @@
 1. [Personal Blog](https://github.com/eunikehp/Blog)
 2. [Calculator](https://github.com/eunikehp/Calculator)
 3. [Rock-paper-scissors game](https://github.com/eunikehp/Rock-paper-scissors)
-
+   
 #### Data Analysis
 1. [Funnel Analysis](https://github.com/eunikehp/Funnel-Analysis/blob/main/Funnel%20Analysis.pdf)|  Data Cleaning, EDA, Model Development, Visualization<br/>
 Locate new clients in existing buildings based on clients' preferences and requirements.
@@ -86,7 +86,6 @@ Analyze existing customer datasets to determine customer trends and behavior, th
 |5|[Capstone Project: MuscleHub](https://github.com/eunikehp/MuscleHub-A-B-Test)| A/B Test. Choosing business strategy. | SQL, Pandas, Matplotlib|
 |6|[Capstone Project: Diagnosing Diabetes](https://github.com/eunikehp/EDA-Diagnosing-Diabetes)| Exploratory Data Analysis (EDA)| Pandas, NumPy|
 
-
 #### Tableau
 |No| Project Names | 
 |---|---|
@@ -94,8 +93,6 @@ Analyze existing customer datasets to determine customer trends and behavior, th
 |2|[Volcanic Eruption](https://public.tableau.com/app/profile/eunikepardede/viz/VolcanicEruptions_16656691598690/Dashboard1)| 
 |3|[NYC Tree Census and Income](https://public.tableau.com/app/profile/eunikepardede/viz/NYCTreeCensusandIncome_16658348516200/Dashboard1)| 
 |4|[CEO Dashboard](https://public.tableau.com/app/profile/eunikepardede/viz/CEOReport_16869070854710/Dashboard1)|
-
-
 
 ## Languages and Tools:
 
@@ -108,10 +105,8 @@ Analyze existing customer datasets to determine customer trends and behavior, th
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
-
-<br />
-<br /> 
-
+-->
+<!--
 ## 🤳 Connect with me:
 
 [<img align="left" alt="Eunike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -129,9 +124,10 @@ Analyze existing customer datasets to determine customer trends and behavior, th
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Eunike's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eunikehp&show_icons=true&hide_border=true" />
 
+
 <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Eunike's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunikehp" />
-
+-->
 
 
 [portfolio]: https://github.com/eunikehp?tab=repositories
