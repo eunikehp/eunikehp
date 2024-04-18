@@ -2,10 +2,10 @@
 
 ## About me
 - 🔭 A former banker and a lifelong learner
-- 😄 Recently graduated with a master's degree in Business Administration
-- ⚡ Passionate about coding, programming, and data analysis
--  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html) (still on progress)
-- 💬 Ask me about ... anything
+- 😄 Graduated with a master's degree in Business Administration
+- ⚡ Passionate in coding, programming, and data analysis
+<!-- -  ✍ You can find my projects at [https://eunikehp.github.io/](https://eunikehp.github.io/index.html) (still on progress)
+- 💬 Ask me about ... anything -->
 
 ## 🌱 Skills 
 - Web Development
