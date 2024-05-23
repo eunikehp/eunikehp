@@ -1,6 +1,6 @@
 # 🙋‍♀️ Hi, I'm Eunike
 
-I love seeing the big picture and always keeping user interfaces in mind. My strong analytical and problem-solving skills developed through experience in finance. I taught myself to code out of a love for technology. Now, I'm eager to learn and grow in front-end development and would like to find a job that can develop me even more. Some technologies I enjoy working with include JavaScript, HTML,CSS, ReactJS, Redux, and React Native. I believe in clear communication and teamwork to deliver outstanding results. My goal is to write clean, strong, and safe code for a great user experience.
+I love seeing the big picture and always keeping user experiences and interfaces in mind. My strong analytical and problem-solving skills developed through experience in finance. I taught myself to code out of a love for technology. I followed Nucamp Coding Bootcamp, and have finished the program. Now, I'm eager to learn and grow in front-end development and would like to find a job that can develop me even more. Some technologies I enjoy working with include JavaScript, HTML,CSS, ReactJS, Redux, and React Native. I believe in clear communication and teamwork to deliver outstanding results. My goal is to write clean, strong, and safe code for a great user experience.
 
 <!--
 ## About me
