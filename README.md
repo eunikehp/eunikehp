@@ -1,6 +1,7 @@
 # 🙋‍♀️ Hi, I'm Eunike
 
-I am a recent Nucamp Full Stack Web and Mobile Bootcamp graduate who is diving into web tech. I love seeing the big picture and always keeping user experiences and interfaces in mind. I taught myself to code out of a love for technology.  <br/><br/><strong>My journey? </strong> I have a background in finance. I'm eager to learn and grow in front-end development and would like to find a job that can develop me even more. My strong analytical and problem-solving skills developed through experience in finance. I believe in clear communication and teamwork to deliver outstanding results. <br/><br/> Some technologies I bring a solid foundation in HTML5, CSS3, JavaScript. Through coursework and personal projects, I have been gaining practical experience, in developing web apps using frameworks: ReactJS, Redux, React Native, and VueJS. I am currently improving on NodeJs and more!  I aim to write clean, strong, and safe code for a great user experience.
+I'm a Full Stack Web and Mobile Bootcamp graduate from Nucamp. I love seeing the big picture and always keeping user experiences and interfaces in mind.
+I have over five years of experience in business and data and I'm passionate about creating design and digital products, as well as solving problems. <br/><br/> I bring a solid foundation in HTML5, CSS3, and JavaScript. Through coursework and personal projects, I have gained practical experience in developing web apps using frameworks & libraries: ReactJS, Redux, React Native, and VueJs. I am currently improving on NodeJs, NextJs, TypeScript, Tailwind CSS, and more! I aim to write clean, strong, and safe code for a great user experience.
 
 <!--
 ## About me
